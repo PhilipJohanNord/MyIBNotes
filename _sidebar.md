@@ -1,3 +1,7 @@
+---
+sidebar: true
+---
+
 # Sidebar Title
 
 * [Welcome](/)
