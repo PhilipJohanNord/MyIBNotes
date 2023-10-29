@@ -1,0 +1,2 @@
+* [Welcome](/)
+* [Guide](guide.md)
